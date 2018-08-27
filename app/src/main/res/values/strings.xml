@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bigger Number</string>
+    <string name="which_number_is_bigger">Which Number is Bigger?</string>
+    <string name="main_score">Score:</string>
+    <string name="button_main_right">right</string>
+    <string name="button_main_left">left</string>
+</resources>
